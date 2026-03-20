@@ -138,3 +138,4 @@ We are building this not just as a hackathon prototype, but as a robust platform
 ---
 
 ### *“Our project demonstrates how AI, mobile technology, and scalable backend architecture can work together to build a smart reporting platform that improves communication between users and authorities.”*
+"# ai-app" 
